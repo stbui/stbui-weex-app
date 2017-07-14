@@ -27,6 +27,6 @@ export default new Router({
     { path: '/customer', component: Customer },
     { path: '/tasks', component: Tasks },
     { path: '/my', component: MyView },
-    { path: '/', redirect: '/leads/detail/1' }
+    { path: '/', redirect: '/workspace' }
   ]
 })
