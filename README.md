@@ -8,7 +8,7 @@
 
 ![demo](dist/qrcode.png)
 
-> 二维码地：
+> 二维码地址：
 https://raw.githubusercontent.com/stbui/stbui-weex-app/master/dist/?dd_wx_tpl=https://raw.githubusercontent.com/stbui/stbui-weex-app/master/dist/index.weex.js
 
 ![demo](dist/demo.png)
