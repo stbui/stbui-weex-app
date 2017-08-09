@@ -6,7 +6,10 @@
 
 用 [Weex Playground App](https://weex.apache.org/playground.html) 扫描下方二维码即可。
 
-> https://raw.githubusercontent.com/stbui/stbui-weex-app/master/dist/?dd_wx_tpl=https://raw.githubusercontent.com/stbui/stbui-weex-app/master/dist/index.weex.js
+![demo](dist/qrcode.png)
+
+> 二维码地：
+https://raw.githubusercontent.com/stbui/stbui-weex-app/master/dist/?dd_wx_tpl=https://raw.githubusercontent.com/stbui/stbui-weex-app/master/dist/index.weex.js
 
 ![demo](dist/demo.png)
 
