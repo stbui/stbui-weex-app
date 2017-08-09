@@ -6,7 +6,9 @@
 
 用 [Weex Playground App](https://weex.apache.org/playground.html) 扫描下方二维码即可。
 
-> http://192.168.1.164:1337/?dd_wx_tpl=http://192.168.1.164:1337/dist/index.weex.js
+> https://raw.githubusercontent.com/stbui/stbui-weex-app/master/dist/?dd_wx_tpl=https://raw.githubusercontent.com/stbui/stbui-weex-app/master/dist/index.weex.js
+
+![demo](dist/demo.png)
 
 ## 编译项目文件
 
